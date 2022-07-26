@@ -1,2 +1,2 @@
-# Regresi-n-Log-stica
+# Regresin Logistica
 Trabajo práctico sobre clasificación
